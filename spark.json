@@ -1,0 +1,7 @@
+{
+    "name": "MPU-9150_Breakout",
+    "version": "0.0.1",
+    "author": "Zigit <fredrik.garneij@gmail.com>",
+    "license": "MIT license",
+    "description": "Ported MPU-9150_Breakout library"
+}
