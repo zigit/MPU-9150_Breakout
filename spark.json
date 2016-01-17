@@ -1,5 +1,5 @@
 {
-    "name": "MPU-9150_Breakout",
+    "name": "MPU6050",
     "version": "0.0.1",
     "author": "Zigit <fredrik.garneij@gmail.com>",
     "license": "MIT license",
